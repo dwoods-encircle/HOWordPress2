@@ -11,10 +11,10 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twelve
- * @since Twenty Twelve 1.0 test update
+ * @since Twenty Twelve 1.0 test
  */
 
-get_header(); ?>
+get_header(); ?> 
 
 	<div id="primary" class="site-content">
 		<div id="content" role="main">
