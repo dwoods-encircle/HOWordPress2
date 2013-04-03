@@ -11,7 +11,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twelve
- * @since Twenty Twelve 1.0
+ * @since Twenty Twelve 1.0 test update
  */
 
 get_header(); ?>
